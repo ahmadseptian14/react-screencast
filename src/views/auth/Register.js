@@ -5,7 +5,7 @@ export default function () {
   return (
     <div>
       <App title="Register">
-        Register
+        Registerrr
       </App>
     </div>
   )
